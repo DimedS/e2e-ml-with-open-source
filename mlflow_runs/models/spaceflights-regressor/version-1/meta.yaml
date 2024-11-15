@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1731672664028
+current_stage: None
+description: null
+last_updated_timestamp: 1731672664028
+name: spaceflights-regressor
+run_id: 4abe7b6111f043d4be9baf6521c39e3b
+run_link: null
+source: file:///Users/Dmitry_Sorokin/Git/Projects/e2e-ml-with-open-source/mlflow_runs/730638874196394914/4abe7b6111f043d4be9baf6521c39e3b/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/Dmitry_Sorokin/Git/Projects/e2e-ml-with-open-source/mlflow_runs/730638874196394914/4abe7b6111f043d4be9baf6521c39e3b/artifacts/model
+user_id: null
+version: 1

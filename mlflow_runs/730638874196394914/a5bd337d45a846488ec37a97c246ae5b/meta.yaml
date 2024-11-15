@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Dmitry_Sorokin/Git/Projects/e2e-ml-with-open-source/mlflow_runs/730638874196394914/a5bd337d45a846488ec37a97c246ae5b/artifacts
+end_time: 1731685069178
+entry_point_name: ''
+experiment_id: '730638874196394914'
+lifecycle_stage: active
+run_id: a5bd337d45a846488ec37a97c246ae5b
+run_name: __default__
+run_uuid: a5bd337d45a846488ec37a97c246ae5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731685059800
+status: 3
+tags: []
+user_id: Dmitry_Sorokin
